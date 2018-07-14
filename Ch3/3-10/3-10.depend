@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1518267541 source:c:\users\candi\desktop\algorithm\code\ch3\3-10\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+

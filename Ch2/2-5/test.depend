@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1517900862 source:c:\users\candi\desktop\algorithm\code\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1517906010 source:c:\users\candi\desktop\algorithm\code\ch2\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1517906943 source:c:\users\candi\desktop\algorithm\code\ch2\2-5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

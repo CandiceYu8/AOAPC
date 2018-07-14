@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518090600 source:c:\users\candi\desktop\algorithm\code\ch3\3-2\main.cpp
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

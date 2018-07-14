@@ -1,0 +1,1 @@
+Example 输出正确，virtual judge 输出错误，猜测是以Z开头的puzzle存在错误。
